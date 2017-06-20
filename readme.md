@@ -9,6 +9,13 @@ This was a practice console app made during the course. to run
 
 This will display the name of user, badges and his javascript points.
 
+### 2. darksky.js
+This was a recommended exercise on teamtreehouse. to run
+
+`node darksky.js 32.6418 73.7213`
+
+This will display the timezone, weather condition and temperature of the location.
+
 
 ### Contact
 [rehan_manzoor@outlook.com](mailto://rehan_manzoor@outlook.com)
